@@ -19,4 +19,4 @@
   - 대본: 김주완 명상수업 실습편
 - 배경 피아노: Serge Quadrado, "Piano for Meditation" (Pixabay)
 
-© 2026. An In-song (안인성). Distributed for free. (2026. 안인성. 무료 배포)
+© 2026 An In-song (안인성). All rights reserved.
