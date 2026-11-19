@@ -10,3 +10,13 @@
 - 지금은 혼자 쓰는 화면입니다. 여러 사람이 함께 보이는 기능은 다음 단계에서 연결합니다.
 
 3D 그림은 [three.js](https://threejs.org) 0.160.0(MIT 라이선스)으로 그리고, 열 때 인터넷(jsDelivr)에서 불러옵니다.
+
+## 출처
+
+- 명상 안내 음성은 AI로 만들었습니다.
+  - 자비 명상(여성): AnyToSpeech AI 음성
+  - 자비 명상(남성), 호흡 알아차리기(남성): INZEUM AI 음성
+  - 대본: 김주완 명상수업 실습편
+- 배경 피아노: Serge Quadrado, "Piano for Meditation" (Pixabay)
+
+© 2026. An In-song (안인성). Distributed for free. (2026. 안인성. 무료 배포)
